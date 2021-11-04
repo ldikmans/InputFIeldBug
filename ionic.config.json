@@ -1,0 +1,7 @@
+{
+  "name": "InputFieldBug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
